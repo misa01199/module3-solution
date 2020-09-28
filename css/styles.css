@@ -1,0 +1,62 @@
+body {
+		font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New";
+}
+
+.container-fluid {
+	margin-left: 30px;
+}
+
+.navbar-headers > p {
+	margin-top: 4px; 
+	float: left;
+	font-size: 2em;
+	font-weight: 500;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header {
+  border: 1px solid #61122f;
+}
+
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+  }
+
+  #nav-list {
+  margin-top: 10px;
+}
+#nav-list a {
+  color: #9d28a9;
+  text-align: center;
+}
+#nav-list a:hover {
+  background: #deeffe;
+}
+#nav-list a {
+  font-size: 1.3em;
+}
+
+/* Menu */
+
+#page-title {
+	font-size: 2.5em;
+	font-weight: 550;
+}
+
+#grid {
+	background-color: #eca8b6;
+	margin-top: 15px;
+}
+
+#chicken {
+	font-size: 1.4em;
+	margin-top: 10px;
+	margin-bottom: 15px;
+	font-weight: 600;
+}
+
+#paragraph {
+	height: 1000px;
+	font-size: 15.5px;
+	text-align: left;
+}
