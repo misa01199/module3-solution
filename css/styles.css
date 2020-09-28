@@ -6,11 +6,24 @@ body {
 	margin-left: 30px;
 }
 
+#header-nav {
+	background-color: #2e84b6;
+}
+
 .navbar-headers > p {
 	margin-top: 4px; 
 	float: left;
 	font-size: 2em;
 	font-weight: 500;
+}
+
+a {
+	color: black;
+}
+
+a:hover {
+	text-decoration: none;
+	color: black;
 }
 
 .navbar-header button.navbar-toggle, .navbar-header {
